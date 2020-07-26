@@ -1,1 +1,1 @@
-I will be happy to collap if someone can make it responsive.
+I will be happy to collab if someone can make it responsive.
