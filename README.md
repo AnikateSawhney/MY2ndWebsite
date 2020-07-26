@@ -1,2 +1,1 @@
-# MY2ndWebsite
-My2nd Website
+I will be happy to collap if someone can make it responsive.
